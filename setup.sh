@@ -1,1 +1,1 @@
-apt-get install maven --fix-missing
+sudo apt-get install maven
